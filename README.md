@@ -12,10 +12,10 @@ Create POS for inventory control
 **Google Clasp** is used to connect googla app script.
 
 ## How to Use
-- Run ```npm run login``` to log in google app script
-- Run ```npm run pull``` to get the most updated codes
-- Open another terminal and run ```npm start``` to keep live update
-- When ready to push, execute below string replacement processes
+1. Run ```npm run login``` to log in google app script
+2. Run ```npm run pull``` to get the most updated codes
+3. Open another terminal and run ```npm start``` to keep live update
+4. When ready to push, execute below string replacement processes
 
     replace https://mui.com/r/input-component-ref-interface  
     with https:\/\/mui.com\/r\/input-component-ref-interface
