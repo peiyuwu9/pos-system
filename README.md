@@ -5,10 +5,10 @@ An application for inventory control.
 Create POS for inventory control
 
 ## Technologies Used and Why
-**React.js** is used to render DOM.
-**Redux.js** is used to manage state.
-**Material UI** is used to build componenets.
-**Parcel.js** is used to build package.
+**React.js** is used to render DOM.  
+**Redux.js** is used to manage state.  
+**Material UI** is used to build componenets.  
+**Parcel.js** is used to build package.  
 **Google Clasp** is used to connect googla app script.
 
 ## How to Use
