@@ -1,4 +1,4 @@
-# Shucha POS System
+# POS System
 An application for inventory control.
 
 ## Motivation
